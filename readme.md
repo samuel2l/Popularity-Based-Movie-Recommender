@@ -69,17 +69,6 @@ The output is a list of the most popular movies based on real user ratings.
 
 ---
 
-## Example Output
-
-| Rank | Movie Title | Avg Rating | Rating Count |
-|------|-------------|-----------|----------------|
-| 1    | The Shawshank Redemption | 4.8 | 2400 |
-| 2    | The Dark Knight | 4.7 | 2100 |
-| 3    | Inception | 4.6 | 1950 |
-| ...  | ... | ... | ... |
-
----
-
 ## Features
 
 - No user login required  
